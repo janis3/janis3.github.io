@@ -38,6 +38,10 @@ body {
   color: #ccc;
 }
 
+body #content h1:first-of-type {
+  display: none;
+}
+
 a {
   text-decoration: none;
 }

@@ -5,6 +5,8 @@
 layout: default
 ---
 
+# Janis
+
 # Shows
 
 {% include songkick.html %}
@@ -33,25 +35,25 @@ Listen to our music on [Bandcamp](https://janis3.bandcamp.com/album/closer-than-
 ## Live
 Credit: Olle Icke
 
-![live photo 1](/resources/photos/live_001.jpg "Janis Live Photo 1")
+![live photo 1](/assets/photos/live_001.jpg "Janis Live Photo 1")
 
-![live photo 2](/resources/photos/live_002.jpg "Janis Live Photo 2")
+![live photo 2](/assets/photos/live_002.jpg "Janis Live Photo 2")
 
-![live photo 3](/resources/photos/live_003.jpg "Janis Live Photo 3")
+![live photo 3](/assets/photos/live_003.jpg "Janis Live Photo 3")
 
-![live photo 4](/resources/photos/live_004.jpg "Janis Live Photo 4")
+![live photo 4](/assets/photos/live_004.jpg "Janis Live Photo 4")
 
 ## Session
 Credit: Kontantin Korchuk
 
-![session photo 1](/resources/photos/session_001.jpg "Janis Session Photo 1")
+![session photo 1](/assets/photos/session_001.jpg "Janis Session Photo 1")
 
-![session photo 2](/resources/photos/session_002.jpg "Janis Session Photo 2")
+![session photo 2](/assets/photos/session_002.jpg "Janis Session Photo 2")
 
-![session photo 3](/resources/photos/session_003.jpg "Janis Session Photo 3")
+![session photo 3](/assets/photos/session_003.jpg "Janis Session Photo 3")
 
-![session photo 4](/resources/photos/session_004.jpg "Janis Session Photo 4")
+![session photo 4](/assets/photos/session_004.jpg "Janis Session Photo 4")
 
 # Press
 
-[Download our Press Kit here](/resources/press_kit.zip).
+[Download our Press Kit here](/assets/press_kit.zip).

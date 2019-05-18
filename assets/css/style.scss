@@ -38,7 +38,7 @@ body {
   color: #ccc;
 }
 
-body #content h1:first-of-type {
+body #content p:first-of-type {
   display: none;
 }
 
@@ -400,6 +400,7 @@ a {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
+  margin-bottom: 2rem;
   border-top: solid 1px $hr-border-color;
 
   @include large {

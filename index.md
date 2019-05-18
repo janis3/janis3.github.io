@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Janis
+{{ site.title }}
 
 # Shows
 

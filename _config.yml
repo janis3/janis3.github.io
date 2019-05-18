@@ -16,7 +16,7 @@
 title: Janis
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dark alternative psychedelic rock based in Berlin
+  dark alternative psychedelic rock based in Berlin
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janis3.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 social:

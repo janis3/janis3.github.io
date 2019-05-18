@@ -6,6 +6,9 @@ layout: default
 ---
 
 # Shows
+
+{% include songkick.html %}
+
 ## Upcoming Shows
 * 21.06.19 - Tommy Haus, Berlin.
 

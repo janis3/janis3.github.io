@@ -184,6 +184,9 @@ a {
 
   @include small {
     font-size: 1rem;
+    margin-left: 10%;
+    max-width: 80%;
+    line-height: 1.5;
   }
 }
 
@@ -214,12 +217,12 @@ a {
   }
 
   @include medium {
-    padding: 2rem 4rem;
+    padding: 0 4rem;
     font-size: 1.1rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 0 1rem;
     font-size: 1rem;
   }
   

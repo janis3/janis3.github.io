@@ -12,7 +12,10 @@ layout: default
 <!-- {% include songkick.html %} -->
 
 ## Upcoming Shows
-* 21.06.19 - Tommy Haus, Berlin.
+* 31.01.20 - Zosch, Berlin.
+* 24.02.20 - Loophole, Berlin.
+* 12.03.20 - Hafenklang, Hamburg.
+* 15.03.20 - Tief, Zukunft am Ostkreauz, Berlin.
 
 ## Past Shows
 * 30.08.18 - Barkett, Berlin. Supporting Ploho.
@@ -25,7 +28,10 @@ layout: default
 * 08.03.19 - Schabe, Berlin.
 * 12.04.19 - MTC, Cologne.
 * 13.04.19 - T-Keller, Göttingen.
-* 10.05.19 - Loopholem Berlin.
+* 21.04.19 - Naumanns, Lepzig. Einsturzende Neubauten Party.
+* 10.05.19 - Loophole, Berlin.
+* 21.06.19 - Tommy Haus, Berlin.
+* 11.10.19 - Loophole, Berlin.
 
 # Music
 

@@ -12,26 +12,29 @@ layout: default
 <!-- {% include songkick.html %} -->
 
 ## Upcoming Shows
-* 31.01.20 - Zosch, Berlin.
-* 24.02.20 - Loophole, Berlin.
-* 12.03.20 - Hafenklang, Hamburg.
-* 15.03.20 - Tief, Zukunft am Ostkreauz, Berlin.
+
+What show´s? It´s Corona, baby!
+Stay safe, hope to see you again soon 🖤
 
 ## Past Shows
-* 30.08.18 - Barkett, Berlin. Supporting Ploho.
-* 01.09.18 - Slaughterhaus, Berlin.
-* 29.09.18 - Monarch, Berlin.
-* 13.12.18 - Wild at Heart, Berlin.
-* 01.02.19 - Schokoladen, Berlin. EP release show.
-* 15.02.19 - Molotow, Hamburg.
-* 16.02.19 - Underwerket, Copenhagen.
-* 08.03.19 - Schabe, Berlin.
-* 12.04.19 - MTC, Cologne.
-* 13.04.19 - T-Keller, Göttingen.
-* 21.04.19 - Naumanns, Lepzig. Einsturzende Neubauten Party.
-* 10.05.19 - Loophole, Berlin.
-* 21.06.19 - Tommy Haus, Berlin.
+* 30.09.20 - Huxley´s neue Welt, Streaming by StrockTV
+* 12.03.20 - Hafenklang, Hamburg.
+* 24.02.20 - Loophole, Berlin.
+* 31.01.20 - Zosch, Berlin.
 * 11.10.19 - Loophole, Berlin.
+* 21.06.19 - Tommy Haus, Berlin.
+* 10.05.19 - Loophole, Berlin.
+* 21.04.19 - Naumanns, Lepzig. Einsturzende Neubauten Party.
+* 13.04.19 - T-Keller, Göttingen.
+* 12.04.19 - MTC, Cologne.
+* 08.03.19 - Schabe, Berlin.
+* 16.02.19 - Underwerket, Copenhagen.
+* 15.02.19 - Molotow, Hamburg.
+* 01.02.19 - Schokoladen, Berlin. Album release show.
+* 13.12.18 - Wild at Heart, Berlin.
+* 29.09.18 - Monarch, Berlin.
+* 01.09.18 - Slaughterhaus, Berlin.
+* 30.08.18 - Barkett, Berlin. Supporting Ploho.
 
 # Music
 

@@ -44,28 +44,29 @@ Listen to our music on [Bandcamp](https://janis3.bandcamp.com/album/closer-than-
 
 # Photos
 ## Live
-Credit: Olle Icke
+
+![live photo 1](/assets/photos/Janis_31102020_0889.jpg "Janis Live 2")
+Credit: Mike Auerbach
+
+![live photo 1](/assets/photos/unbenannt-209.jpg "Janis Live 3")
+Credit: Fabz Black
+
+![live photo 1](/assets/photos/unbenannt-232.jpg "Janis Live 4")
+Credit: Fabz Black
 
 ![live photo 1](/assets/photos/live_001.jpg "Janis Live Photo 1")
-
-![live photo 2](/assets/photos/live_002.jpg "Janis Live Photo 2")
-
-![live photo 3](/assets/photos/live_003.jpg "Janis Live Photo 3")
-
-![live photo 4](/assets/photos/live_004.jpg "Janis Live Photo 4")
+Credit: Olle Icke
 
 ## Session
-Credit: Kontantin Korchuk
 
 ![session photo 1](/assets/photos/DSC04613.jpg "Janis Session 2")
+Credit: July Space
 
-![session photo 1](/assets/photos/session_001.jpg "Janis Session Photo 1")
-
-![session photo 2](/assets/photos/session_002.jpg "Janis Session Photo 2")
+![session photo 1](/assets/photos/DSC04477.jpg "Janis Session 3")
+Credit: July Space
 
 ![session photo 3](/assets/photos/session_003.jpg "Janis Session Photo 3")
-
-![session photo 4](/assets/photos/session_004.jpg "Janis Session Photo 4")
+Credit: Kontantin Korchuk
 
 # Press
 

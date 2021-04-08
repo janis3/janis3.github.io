@@ -14,7 +14,9 @@ layout: default
 ## Upcoming Shows
 
 What shows? It´s Corona, baby!
-Stay safe, hope to see you again soon 🖤
+Stay safe, hope to see you again soon ❤️
+
+Meanwhile check out our live [stream](https://www.youtube.com/watch?v=hi3ju6_N-bA&t=2454s) from Huxley´s neue Welt, made by the lovely people of StrockTV
 
 ## Past Shows
 * 30.09.20 - Huxley´s neue Welt, Streaming by StrockTV

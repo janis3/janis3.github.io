@@ -57,6 +57,8 @@ Credit: Olle Icke
 ## Session
 Credit: Kontantin Korchuk
 
+![session photo 1](/assets/photos/DSC04613.jpg "Janis Session 2")
+
 ![session photo 1](/assets/photos/session_001.jpg "Janis Session Photo 1")
 
 ![session photo 2](/assets/photos/session_002.jpg "Janis Session Photo 2")

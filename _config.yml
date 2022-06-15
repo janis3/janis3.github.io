@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   dark alternative psychedelic rock based in Berlin
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janis3.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+repository: janis3/janis3.github.io
 social:
   name: Janis
   links:
